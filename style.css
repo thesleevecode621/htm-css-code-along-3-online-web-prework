@@ -27,3 +27,6 @@ text-shadow: 0 2px 3px #000
   text-decoration:none;
   
 }
+#details a:hover{
+  color: black;
+  text-decoration:none;
