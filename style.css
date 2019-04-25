@@ -31,3 +31,6 @@ text-shadow: 0 2px 3px #000
   color: black;
   text-decoration:underline;
 }
+#details a:active{
+  color: red;
+  text-decoration:none;
